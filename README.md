@@ -1,52 +1,75 @@
 <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Coder GIF" width="380" height="280">
-<!-- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280"> -->
 
 <h3 align="center">
   Welcome to Mohamed Naif's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Mohamed+Naif;Mobile%20App%20developer;Welcome+to+my+profile!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Mohamed+Naif;Flutter+Developer;Cross-Platform+Engineer;Welcome+to+my+profile!&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
+  </a>
 </p> 
-<br/>
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
+---
 
-<h3>🚀 About Me</h3> 
-<h4>
+## 🚀 About Me
 
-I am Mohamed Naif, a passionate and ambitious computer and control student based in Egypt.
+I’m **Mohamed Naif**, a **Mobile Software Engineer | Flutter Developer** with **+2 years of experience** building cross-platform applications for **mobile, web, and desktop**.
 
-Currently, I am pursuing my degree in Computer and Control at Suez Canal University, where I have been gaining a solid foundation in computer science, mathematics, and control systems. My coursework has included programming languages such as C++ and Python, as well as subjects like algorithms, data structures, and database management.
+🔹 I have delivered **6+ production projects**, including delivery, loyalty, and conference registration systems.  
+🔹 Skilled in **Clean Architecture, BLoC/Cubit, Firebase, WebSockets, and Localization**.  
+🔹 Passionate about **modern UI/UX design** and **scalable app architecture**.  
 
-In my free time, I enjoy working on personal coding projects, participating in hackathons, and contributing to open source software. I am particularly interested in mobile app development using Flutter, and have developed several apps for personal use.
+Currently, I work as a **Flutter Developer at MD Soft**, where I build and maintain multi-platform solutions like delivery platforms, loyalty systems, and admin dashboards.
 
-I am a quick learner, team player, and have excellent problem-solving skills. I am always looking to expand my knowledge and experience in the field of computer science, and am excited to continue growing as a developer.
+---
 
-If you would like to get in touch, feel free to send me a message on LinkedIn . I would love to connect and chat about all things tech! </h4>
+## 🛠 Tech Stack
 
-<br/>
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
-
-### Connect with Me :
-
-<a href="https://linkedin.com/in/mohamed-naif-32483b1b3/" target="_blank"><img src="https://img.shields.io/badge/Mohamed%20Naif-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<br/>
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
-### 🛠 &nbsp;Tech Stack
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![REST](https://img.shields.io/badge/-REST%20API-05122A?style=flat&logo=rest)&nbsp;
+![Socket.io](https://img.shields.io/badge/-Socket.IO-05122A?style=flat&logo=socket.io)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![CI/CD](https://img.shields.io/badge/-CI/CD-05122A?style=flat&logo=githubactions)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
 
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
 
+---
 
+## 📌 Highlighted Projects
 
+### 🔹 SWiFT Delivery Platform  
+Cross-platform system (Driver, Merchant, Admin, and Windows printing app).  
+Features: Real-time order tracking, QR scanning, role-based access, notifications, and localization.
 
+### 🔹 Tawfeer Loyalty System  
+Cross-platform loyalty & rewards management system.  
+Features: Secure authentication, company/customer/employee management, points transactions, order tracking, full Arabic RTL localization.
+
+### 🔹 Conference Registration System  
+Mobile & web apps for international conferences.  
+Features: Dynamic forms, SMS verification, multilingual UI/UX, admin dashboard with role-based access and advanced filters.
+
+---
+
+## 🤝 Connect with Me
+
+<a href="https://linkedin.com/in/mohamed-naif-32483b1b3/" target="_blank">
+  <img src="https://img.shields.io/badge/Mohamed%20Naif-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MohamedNaif" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:naifm371@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
