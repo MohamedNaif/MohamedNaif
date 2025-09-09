@@ -1,4 +1,7 @@
-<!-- Banner / Header -->
+<!-- Right-side Coder GIF -->
+<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Coder GIF" width="380" height="280">
+
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm Mohamed Naif</h1>
 <h3 align="center">Mobile Software Engineer | Flutter Developer</h3>
 
@@ -9,6 +12,7 @@
   </a>
 </p>
 
+<!-- Social Links -->
 <p align="center">
   <a href="https://linkedin.com/in/mohamed-naif-32483b1b3" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
