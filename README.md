@@ -1,195 +1,364 @@
-# Mohamed Naif
+# Hi, I'm Mohamed Naif 👋
 
-**Mobile Software Engineer | Flutter Developer**
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Mobile+Software+Engineer;Flutter+Expert;Cross-Platform+Developer;Clean+Architecture+Advocate)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Naif-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-naif-32483b1b3)
-[![GitHub](https://img.shields.io/badge/GitHub-MohamedNaif-181717?style=flat&logo=github&logoColor=white)](https://github.com/MohamedNaif)
-[![Email](https://img.shields.io/badge/Email-naifm371%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:naifm371@gmail.com)
+</div>
 
----
-
-## 🎯 Professional Summary
-
-Experienced **Flutter Developer** with **2+ years** of expertise in building scalable, cross-platform applications for mobile, web, and desktop environments. Successfully delivered **6+ production-grade projects** serving thousands of users across delivery, loyalty management, and event registration domains.
-
-**Core Competencies:**
-- Cross-platform development with Flutter (Mobile, Web, Windows)
-- Clean Architecture and SOLID principles implementation
-- Real-time systems using WebSockets and Firebase
-- Enterprise-level application design and deployment
-- Multilingual applications with Arabic RTL support
+<p align="center">
+  <a href="https://linkedin.com/in/mohamed-naif-32483b1b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:naifm371@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/MohamedNaif"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🛠️ Technical Stack
+## 🎯 About Me
 
-### **Languages & Frameworks**
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+```dart
+class MohamedNaif extends FlutterDeveloper {
+  final String location = "Cairo, Egypt";
+  final int yearsOfExperience = 2+;
+  final List<String> platforms = ["Mobile", "Web", "Desktop"];
+  
+  @override
+  String get mission => "Building scalable, cross-platform solutions "
+                        "with exceptional UX and robust architecture";
+  
+  @override
+  List<String> get currentFocus => [
+    "🚀 Advancing Flutter performance optimization",
+    "🏗️ Mastering advanced architectural patterns",
+    "📝 Sharing knowledge through technical writing",
+    "🌟 Contributing to open-source Flutter packages"
+  ];
+}
+```
+
+🔹 **2+ years** of production Flutter development  
+🔹 **6+ enterprise applications** serving thousands of users  
+🔹 Specialized in **Clean Architecture**, **BLoC/Cubit**, and **real-time systems**  
+🔹 Expert in **Arabic RTL localization** and multilingual applications  
+🔹 Published **technical writer** at Eqraatech with 7 Flutter articles  
+
+---
+
+## 🛠️ Tech Arsenal
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Core Technologies
+```yaml
+Languages:
+  - Dart ⭐⭐⭐⭐⭐
+  - Python ⭐⭐⭐⭐
+  - C++ ⭐⭐⭐
+
+Frameworks:
+  - Flutter (Mobile/Web/Desktop)
+  - Firebase Suite
+  - REST APIs & WebSockets
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Architecture & Patterns
+```yaml
+Design Patterns:
+  - Clean Architecture
+  - MVVM & MVC
+  - Repository Pattern
+  - Singleton & Factory
+
+State Management:
+  - BLoC & Cubit
+  - GetIt (Dependency Injection)
+  - GoRouter (Navigation)
+```
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>📦 <b>Complete Tech Stack</b></summary>
+
+<br>
+
+**Mobile Development**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
 
-### **Architecture & State Management**
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=flat)
+**State Management & Architecture**  
 ![BLoC](https://img.shields.io/badge/BLoC-FF6B35?style=flat)
 ![Cubit](https://img.shields.io/badge/Cubit-FF6B35?style=flat)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4CAF50?style=flat)
 ![MVVM](https://img.shields.io/badge/MVVM-9C27B0?style=flat)
 
-### **Backend & Database**
+**Backend & Database**  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat)
 ![Hive](https://img.shields.io/badge/Hive-FF7043?style=flat)
 
-### **Development Tools**
+**Development Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat)
+
+</details>
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Journey
 
-### **Flutter Developer** | MD Soft *(October 2024 - Present)*
-- Architecting and developing enterprise-level cross-platform applications
-- Leading technical implementation of complex business requirements
-- Mentoring development practices and code quality standards
+```mermaid
+timeline
+    title Career Timeline
+    2019-2024 : B.Sc. Electrical & Electronics Engineering
+              : Suez Canal University (Grade: B)
+    2024-03 : Freelance Flutter Developer
+            : Custom mobile solutions
+    2024-10 : Flutter Developer @ MD Soft
+            : Enterprise cross-platform apps
+    2025-10 : Mid-Level Flutter Developer @ Bood
+            : Real-time location-based features
+```
 
-### **Freelance Flutter Developer** *(March 2024 - May 2024)*
-- Delivered custom mobile solutions for diverse client requirements
-- Maintained 100% client satisfaction through iterative development approach
+### 🏢 Current Role: Mid-Level Flutter Developer @ **Bood**
+*October 2025 - Present | Cairo, Egypt*
+
+- Building high-performance cross-platform mobile applications
+- Implementing **Google Maps** integration for real-time tracking
+- Architecting scalable RESTful API integrations
+- Delivering clean UI with smooth performance
 
 ---
 
 ## 🚀 Featured Projects
 
-### **SWiFT Delivery Platform** | *Enterprise Fleet Management System*
-A comprehensive multi-platform ecosystem for delivery and warehouse management operations.
+<table>
+<tr>
+<td width="50%">
 
-**Architecture:** Cross-platform suite (3 mobile apps + Windows desktop application)
+### 🚚 [SWiFT Delivery Platform](https://play.google.com/store/apps/details?id=com.swift.merchant)
 
-**Key Technical Achievements:**
-- **Driver Mobile App:** Real-time order tracking with QR verification system
-- **Merchant Mobile App:** Inventory management with low-stock alerts and analytics
-- **Admin Web Panel:** Complete business operations dashboard with role-based access
-- **Windows Printing App:** Automated order printing with native printer integration
+**Enterprise Fleet Management Ecosystem**
 
-**Technical Implementation:**
-- Clean Architecture with BLoC state management
-- Real-time WebSocket communication for order updates
-- Arabic RTL localization with responsive design
-- Push notifications and in-app messaging system
-- Secure authentication with role-based permissions
+📱 3 Mobile Apps + 1 Windows Desktop  
+⚡ Real-time order tracking with WebSockets  
+🎯 QR verification & wallet system  
+🌍 Arabic RTL localization  
+📊 Analytics dashboards
+
+**Tech:** Flutter • BLoC • WebSockets • Firebase  
+**Platforms:** Android, iOS, Web, Windows
+
+[🔗 Merchant App](https://play.google.com/store/apps/details?id=com.swift.merchant) | [🔗 Driver App](https://play.google.com/store/apps/details?id=com.swift.driver)
+
+</td>
+<td width="50%">
+
+### 🎁 [GB GHADIR Loyalty Network](https://play.google.com/store/apps/details?id=com.mdsoft.gb_ghadir)
+
+**Multi-Role Loyalty Management Suite**
+
+👥 Agent, Technician & Admin interfaces  
+💳 Wallet transfers & rewards redemption  
+🗺️ Google Maps delivery selection  
+📦 Order tracking with live updates  
+📊 Export services (Excel/PDF)
+
+**Tech:** Flutter • BLoC • GetIt • GoRouter  
+**Features:** Multi-step OTP, Role-based auth
+
+[🔗 Google Play](https://play.google.com/store/apps/details?id=com.mdsoft.gb_ghadir)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎯 Tawfeer Loyalty System
+
+**Customer Rewards & Points Platform**
+
+💰 Send, receive & redeem loyalty points  
+🏪 Company & product management  
+📱 Order tracking & transaction history  
+👥 Multi-role support (Admin/Employee/Customer)  
+🔔 Push notifications for promotions
+
+**Tech:** Flutter • BLoC • Firebase  
+**Focus:** Secure auth, Arabic RTL UI
+
+</td>
+<td width="50%">
+
+### 🎓 Conference Registration System
+
+**Event Management Platform**
+
+📝 Dynamic registration forms  
+💵 Multi-package pricing engine  
+📲 SMS verification system  
+⚡ Real-time approval dashboard  
+🔍 Advanced search with pagination
+
+**Tech:** Flutter • Clean Architecture • BLoC  
+**Components:** Mobile App + Admin Panel
+
+</td>
+</tr>
+</table>
 
 ---
 
-### **Tawfeer Loyalty Management System** | *Customer Rewards Platform*
-Modern loyalty program management solution for retail businesses.
+## 📊 GitHub Analytics
 
-**Core Features:**
-- **Points Management:** Send, receive, and redeem loyalty points
-- **Business Operations:** Company, product, and employee management
-- **Customer Engagement:** Order tracking and transaction history
-- **Multi-role Support:** Admin, employee, and customer interfaces
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedNaif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedNaif&theme=tokyonight&hide_border=true" />
+</p>
 
-**Technical Highlights:**
-- Secure authentication with session management
-- Real-time points calculation and transfer system
-- Full Arabic localization with RTL support
-- Shopping cart implementation with points integration
-- Push notification system for promotions and updates
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedNaif&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedNaif&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 ---
 
-### **International Conference Registration System** | *Event Management Platform*
-Scalable registration system for the 11th International Scientific Conference.
+## 🏆 Key Achievements
 
-**Platform Components:**
-- **Mobile App (Alyas):** User registration with dynamic form generation
-- **Admin Dashboard:** Registration review and management system
-
-**Advanced Features:**
-- Dynamic pricing based on membership status and package selection
-- SMS verification system for secure registration
-- Multi-package support (conference + workshops)
-- Advanced search with debounced input and infinite scroll
-- Multilingual interface with Arabic RTL support
-
-**Performance Optimizations:**
-- Efficient data pagination for large datasets
-- Real-time form validation and fee calculation
-- Session-based admin authentication
-
----
-
-## 📈 Technical Expertise
-
-### **Software Architecture**
-- **Clean Architecture:** Separation of concerns with dependency injection
-- **SOLID Principles:** Maintainable and scalable code design
-- **Design Patterns:** MVVM, Repository, Singleton, Factory implementations
-
-### **Performance & Optimization**
-- **State Management:** Efficient BLoC/Cubit implementation
-- **Memory Management:** Optimized widget lifecycle and resource handling
-- **Network Optimization:** Caching strategies and efficient API calls
-
-### **Quality Assurance**
-- **Testing:** Unit, widget, and integration testing practices
-- **CI/CD:** Automated build and deployment pipelines
-- **Code Quality:** Linting, formatting, and peer review processes
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/rocket.png" width="60"/>
+<br><b>6+ Projects</b>
+<br>Production Apps
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/user.png" width="60"/>
+<br><b>Thousands</b>
+<br>Active Users
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/document.png" width="60"/>
+<br><b>7 Articles</b>
+<br>Technical Writing
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/graduation-cap.png" width="60"/>
+<br><b>Grade A</b>
+<br>Graduation Project
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎓 Education & Certifications
 
-**Bachelor of Electrical and Electronics Engineering**  
-*Suez Canal University* | **Grade: B** | **Graduation Project: A** *(2019-2024)*
+**🎓 B.Sc. Electrical & Electronics Engineering**  
+*Suez Canal University (2019-2024)* • Grade: **B** • Graduation Project: **A**
 
-**Professional Development**
-- **Mobile Application Development** | Information Technology Institute (ITI)
-- **Technical Writing** | Eqraatech (Published 7 Flutter articles)
+**📜 Professional Development**
+- 📱 Mobile Application Development - *Information Technology Institute (ITI)*
+- ✍️ Technical Writing - *Eqraatech* (7 published Flutter articles)
 
----
-
-## 🌟 Community Involvement
-
-**Technical Writer** | *Eqraatech* *(October 2024 - Present)*
-- Published comprehensive Flutter development articles
-- Contributing to developer community knowledge sharing
-
-**Active Member** | *ICPC Suez Canal University Community*
-- Participating in competitive programming initiatives
-- Mentoring students in algorithmic problem-solving
+**🌟 Community Involvement**
+- Technical Writer @ Eqraatech
+- Active Member @ ICPC Suez Canal University Community
 
 ---
 
-## 📊 GitHub Statistics
+## 💡 Core Competencies
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedNaif&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedNaif&layout=compact&theme=radical)
+<details>
+<summary><b>🏗️ Software Architecture & Design</b></summary>
+
+- ✅ Clean Architecture implementation with clear separation of concerns
+- ✅ SOLID principles for maintainable, scalable code
+- ✅ Design patterns: MVVM, Repository, Singleton, Factory
+- ✅ Dependency injection with GetIt
+- ✅ Modular, testable code structure
+
+</details>
+
+<details>
+<summary><b>⚡ Performance & Optimization</b></summary>
+
+- ✅ Efficient BLoC/Cubit state management
+- ✅ Optimized widget lifecycle & memory management
+- ✅ Network optimization with caching strategies
+- ✅ Lazy loading & pagination for large datasets
+- ✅ Background task handling & isolates
+
+</details>
+
+<details>
+<summary><b>🌍 Localization & Accessibility</b></summary>
+
+- ✅ Arabic RTL support & multilingual interfaces
+- ✅ Responsive design for all screen sizes
+- ✅ Accessibility standards implementation
+- ✅ Dynamic theme switching
+- ✅ Cultural considerations in UX
+
+</details>
+
+<details>
+<summary><b>🔄 Real-Time & Integration</b></summary>
+
+- ✅ WebSocket & Socket.IO for real-time updates
+- ✅ RESTful API integration & error handling
+- ✅ Firebase services (Auth, Firestore, FCM)
+- ✅ Google Maps integration
+- ✅ Push notifications & in-app messaging
+
+</details>
 
 ---
 
-## 🎯 What I'm Currently Working On
+## 📫 Let's Connect
 
-- 🔨 Advancing Flutter performance optimization techniques
-- 📱 Exploring advanced state management patterns
-- 🌐 Contributing to open-source Flutter packages
-- 📚 Sharing knowledge through technical writing
+<p align="center">
+  
+I'm always open to discussing new opportunities, technical challenges, and innovative Flutter solutions.
+
+**💼 Open to:** Full-time positions | Remote work | Exciting Flutter projects
+
+<br>
+
+<a href="https://linkedin.com/in/mohamed-naif-32483b1b3">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:naifm371@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/MohamedNaif">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 📞 Let's Connect
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohamedNaif&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-I'm always interested in discussing new opportunities, technical challenges, and innovative Flutter solutions.
+<p align="center">
+  <i>"Building scalable, cross-platform solutions that bridge the gap between exceptional user experience and robust technical architecture."</i>
+</p>
 
-**Preferred Contact Methods:**
-- **LinkedIn:** [Professional networking and opportunities](https://linkedin.com/in/mohamed-naif-32483b1b3)
-- **Email:** [naifm371@gmail.com](mailto:naifm371@gmail.com)
-- **GitHub:** [Code collaboration and open source](https://github.com/MohamedNaif)
-
----
-
-*"Building scalable, cross-platform solutions that bridge the gap between exceptional user experience and robust technical architecture."*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
